@@ -1,2 +1,2 @@
-oag1
+Overly Ambitious Game Experiment #1
 ====
